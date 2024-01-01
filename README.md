@@ -5,7 +5,7 @@ ada tambahan 2 fitur, setelah semar-v1 is done, ada revisi
 ### why use this app
 is for e-learning to elementary school. this app about "malaikat dalam agama islam"
 
-### behing story
+### behind story
 this is my first project freelance, and even this kinda of simple. I got pretty enough amount $$$
 
 ### PREVIEW
